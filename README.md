@@ -32,6 +32,7 @@
 <p style="text-align: justify;">
 HTML (HyperText Markup Language) is the standard markup language
 used to create and structure web pages. It defines the content
-and structure of a web document. loremwffffffffff fffffffffffffff ffffffffffffffffffff fffffffffffffff fffffffffff ffffffffffff fffffffffff fffffffffff ffffffffffffff ffffffffffffff ffffffffffff  
+and structure of a web document.
 </p>
+
 HTML (HyperText Markup Language) is the standard markup language used to create and structure web pages. It defines the content and structure of a web document.
