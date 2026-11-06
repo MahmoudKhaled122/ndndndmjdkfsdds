@@ -3,12 +3,17 @@
 >[!Tip]
 
 ------------------------------------
-*heading
-**heading
-***heading
-****heading
-*****heading
-******heading
+* heading
+
+** heading
+  
+*** heading
+  
+**** heading
+  
+***** heading
+  
+****** heading
 ---------------------------------
 - **HTML:** HyperText Markup Language.
 - **CSS:** *Cascading Style Sheets.*
